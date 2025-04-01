@@ -4,4 +4,4 @@ Table 1: The per-class AUC for clean and poisoned model on imbalanced MNIST and 
 
 ![](fig555.png)
 
-Figure 1: Relative frequency distribution of RPP for clean and poisoned samples on SVHN dataset with imbalance ratios: (a) $\mu$ = 0.9, \(\rho = 2\) and (b) $\mu$ = 0.9, \(\rho = 100\).
+Figure 1: Relative frequency distribution of RPP for clean and poisoned samples on SVHN dataset with imbalance ratios: (a) $\mu$ = 0.9, $\rho$ = 2 and (b) $\mu$ = 0.9, $\rho$ = 100.
